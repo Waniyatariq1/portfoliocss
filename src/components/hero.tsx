@@ -16,10 +16,10 @@ function Hero(){
                   </div>
                 {/* right */}
                  <div className="hero-right-div">
-                    <h1 className="title-hero">I am Saima Riaz
+                    <h1 className="title-hero">I am Waniya Tariq
                         Front-end Developer </h1>
                         <p className="des-hero">
-Hi Iam SAima Riaz a passionate and detail-oriented front-end developer with a strong focus on crafting exceptional user experiences. With 1 year of experience in the industry I have honed my skills in designing and developing responsive scalable and maintainable web applications.
+Hi Iam Waniya Tariq a passionate and detail-oriented front-end developer with a strong focus on crafting exceptional user experiences. With 1 year of experience in the industry I have honed my skills in designing and developing responsive scalable and maintainable web applications.
 
 *My Expertise:*
 - Proficient in HTML5 CSS3 JavaScript and front-end frameworks like React Angular and Vue.js

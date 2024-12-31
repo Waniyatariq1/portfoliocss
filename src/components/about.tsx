@@ -26,7 +26,7 @@ function About(){
                 {/* right */}
                  <div className="hero-right-div">
                     <h1 className="title-hero">About Us</h1>
-                        <p className="des-hero">Hi I am SAima Riaz a passionate and detail-oriented front-end developer with a strong focus on crafting exceptional user experiences. With 1 year of experience in the industry I have honed my skills in designing and developing responsive scalable and maintainable web applications.
+                        <p className="des-hero">Hi I am Waniya Tariq a passionate and detail-oriented front-end developer with a strong focus on crafting exceptional user experiences. With 1 year of experience in the industry I have honed my skills in designing and developing responsive scalable and maintainable web applications.
                          </p>
                          
                  </div>

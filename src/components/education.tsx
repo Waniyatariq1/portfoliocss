@@ -8,19 +8,19 @@ function Education (){
             </div>
             <div className="box-con-edu">
                 <div>
-                    <h1 className="uni-name">University Of Karachi</h1>
+                    <h1 className="uni-name">Ziaudding University</h1>
                     <span>Student</span>
                 </div>
                 <div className="computer">
-                <h1>Bachelor In Computer Science </h1>
-                <p>I Am Completed My Bachelor Degree </p>
+                <h1>Bachelor Of Science In Software Engineering </h1>
+                <p>I Am Studing In software Engineering from Ziauddind University </p>
                 </div>
             </div>
 
             {/* box 2 */}
             <div className="box-con-edu">
                 <div>
-                    <h1 className="uni-name">University Of Karachi</h1>
+                    <h1 className="uni-name">ZiaUddind University</h1>
                     <span>Student</span>
                 </div>
                 <div className="computer">
@@ -31,7 +31,7 @@ function Education (){
              {/* box 3 */}
              <div className="box-con-edu">
                 <div>
-                    <h1 className="uni-name">University Of Karachi</h1>
+                    <h1 className="uni-name">Ziauddin University</h1>
                     <span>Completed</span>
                 </div>
                 <div className="computer">
